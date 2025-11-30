@@ -1,0 +1,4 @@
+﻿model,BLEU-1,BLEU-2,ROUGE-L,EM,F1
+PhoBERT (Extractive),100.0,100.0,58.08,0.0,52.9
+ViT5 (Enc-Dec),100.0,81.65,57.64,14.36,51.41
+Qwen (Dec-Only),87.16,57.52,19.82,0.0,19.56

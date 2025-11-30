@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+safetensors
+sentencepiece
+protobuf
+accelerate
+sacrebleu
+rouge-score
+tiktoken
+einops
